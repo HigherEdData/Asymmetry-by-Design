@@ -1,9 +1,30 @@
-## Replication Package for "Asymmetry by Design? Identity Obfuscation, Reputational Pressure, and Consumer Predation in U.S. For-Profit Higher Education"
+# Asymmetry by Design? Identity Obfuscation, Reputational Pressure, and Consumer Predation in U.S. For-Profit Higher Education
 
-### forthcoming in American Sociological Review
+### by Adam Goldstein and Charlie Eaton
 
-by Adam Goldstein and Charlie Eaton
+Summary: Colleges that are part of multi-brand companies invest less in instruction, have worse student outcomes, and are more likely to face legal and regulatory sanctions (relative to single-brand firms).
 
+**Data:**
+  - For-profit News Article DataHub Data
+  - Private Equity and College Ownership DataHub Data
+  - Borrower Defense Complaint DataHub Data
+  - IPEDS Completions
+  - College Scorecard
+  - IPEDS Institutional Characteristics
+  - IPEDS Fall Staff
+  - IPEDS Graduation Rates
+  - IPEDS Fall Enrollment by Race
+  - IPEDS Financial Aid and Net Price
+
+**Citatation:**
+Goldstein, Adam, and Charlie Eaton. “Asymmetry by Design? Identity Obfuscation, Reputational Pressure, and Consumer Predation in U.S. For-Profit Higher Education.” American Sociological Review 86, no. 5 (October 2021): 896–933. https://doi.org/10.1177/00031224211043223.
+
+This article develops and tests an identity-based account of malfeasance in consumer markets. We hypothesize that multi-brand organizational structures help predatory firms short-circuit reputational discipline by rendering their underlying identities opaque to consumer audiences. The analysis utilizes comprehensive administrative data on all U.S. for-profit colleges, an industry characterized by widespread fraud and poor (although variable) educational outcomes. Consistent with the hypothesis that brand multiplicity facilitates malfeasance by reducing ex ante reputational risks, colleges that are part of multi-brand companies invest less in instruction, have worse student outcomes, and are more likely to face legal and regulatory sanctions (relative to single-brand firms). Maintaining multiple outward-facing brand identities also mitigates reputational penalties in the wake of law enforcement actions, as measured by news coverage of legal actions, and by subsequent enrollment growth. The results suggest identity multiplicity plays a key role in allowing firms to furnish substandard products, even amid frequent scandals and media scrutiny. Predatory practices are facilitated not only by the inherent informational asymmetries in a given product, but also by firms’ efforts to make themselves less legible to audiences. The analysis contributes to research on higher education, organizational theory, and the sociology of markets.
+
+**Abstract:**
+This article develops and tests an identity-based account of malfeasance in consumer markets. We hypothesize that multi-brand organizational structures help predatory firms short-circuit reputational discipline by rendering their underlying identities opaque to consumer audiences. The analysis utilizes comprehensive administrative data on all U.S. for-profit colleges, an industry characterized by widespread fraud and poor (although variable) educational outcomes. Consistent with the hypothesis that brand multiplicity facilitates malfeasance by reducing ex ante reputational risks, colleges that are part of multi-brand companies invest less in instruction, have worse student outcomes, and are more likely to face legal and regulatory sanctions (relative to single-brand firms). Maintaining multiple outward-facing brand identities also mitigates reputational penalties in the wake of law enforcement actions, as measured by news coverage of legal actions, and by subsequent enrollment growth. The results suggest identity multiplicity plays a key role in allowing firms to furnish substandard products, even amid frequent scandals and media scrutiny. Predatory practices are facilitated not only by the inherent informational asymmetries in a given product, but also by firms’ efforts to make themselves less legible to audiences. The analysis contributes to research on higher education, organizational theory, and the sociology of markets.
+
+**Using the Code and Data:**
 If you cannot use Git to clone this package to your machine, you can download all files and folders in the package by clicking on the green **Code** button at the top of this page. Alternatively, if you navigate to any program or data file in the repository above using your web browser, there will be a **download** button on the bottom right of your browser page to download that individual file.
 
 All replication code is in STATA but is provided and executed in Jupyter Notebooks (.ipnynb) using a Stata Kernel. For details see: https://kylebarron.dev/stata_kernel/
