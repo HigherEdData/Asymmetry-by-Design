@@ -5,7 +5,7 @@
 Summary: Colleges that are part of multi-brand companies invest less in instruction, have worse student outcomes, and are more likely to face legal and regulatory sanctions (relative to single-brand firms).
 
 **Data:**
-  - For-profit News Article DataHub Data
+  - For-profit News Article DataHub Data - available in https://github.com/HigherEdData/Asymmetry-by-Design-in-For-Profit-Higher-Education/blob/master/t8_brand_media_mentions.ipynb
   - Private Equity and College Ownership DataHub Data
   - Borrower Defense Complaint DataHub Data
   - IPEDS Completions
